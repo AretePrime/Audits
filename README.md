@@ -27,11 +27,8 @@ We offer both fixed pay and pay-per-vulnerability security reviews.
 **Zdravko**
 | Contest | High risk | Medium risk | Ranking | Security report | 
 |:--:|:--:|:--:|:--:|:--:|
-| [Beedle](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx) | 4 | 0 | - |[Report](https://github.com/AtanasDimulski/Portfolio/edit/main/Dimulski/CodeHawks/1.%20Beedle/Beedle%20Report.md) |
-| [The Standard](https://www.codehawks.com/contests/clql6lvyu0001mnje1xpqcuvl) | 3 | 0 | 🥇 |[Report](https://github.com/AtanasDimulski/Portfolio/blob/main/Dimulski/CodeHawks/2.%20The%20Standard/The%20Standard%20Report.md) |
 
 **dimulski**
 | Contest | High risk | Medium risk | Ranking | Security report | 
 |:--:|:--:|:--:|:--:|:--:|
-| [Beedle](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx) | 4 | 0 | - |[Report](https://github.com/AtanasDimulski/Portfolio/edit/main/Dimulski/CodeHawks/1.%20Beedle/Beedle%20Report.md) |
 | [The Standard](https://www.codehawks.com/contests/clql6lvyu0001mnje1xpqcuvl) | 3 | 0 | 🥇 |[Report](https://github.com/AtanasDimulski/Portfolio/blob/main/Dimulski/CodeHawks/2.%20The%20Standard/The%20Standard%20Report.md) |
