@@ -32,7 +32,7 @@ We offer both fixed pay and pay-per-vulnerability security reviews.
 # Our work
 | Date | Protocol | Findings | Report | 
 |:--:|:--:|:--:|:--:|
-| 02.05.2024 | Vaultody | 1M, 4L |[Report](https://github.com/AtanasDimulski/Portfolio/edit/main/Dimulski/CodeHawks/1.%20Beedle/Beedle%20Report.md) |
+| 02.05.2024 | Vaultody | 1M, 4L |[Report](https://github.com/AretePrime/Audits/blob/main/reports/VaultodyWalletFactory.pdf) |
 
 # Members selected individual work
 **Zdravko**
