@@ -20,14 +20,14 @@ We offer both fixed pay and pay-per-vulnerability security reviews.
    - [Sherlock Profile]()
    - [Code4rena Profile]()
    - [CodeHawks Profile]()
-   - [Github]()
+   - [Individual Portfolio]()
      
 - **Dimulski**
    - [Twitter](https://x.com/dimulskiatanas)
    - [Sherlock Profile](https://audits.sherlock.xyz/watson/dimulski)
    - [Code4rena Profile](https://code4rena.com/@dimulski)
    - [CodeHawks Profile](https://www.codehawks.com/profile/clk4159y3002smb089da6c13f)
-   - [Github](https://github.com/AtanasDimulski)
+   - [Individual Portfolio](https://github.com/AtanasDimulski)
 
 # Our work
 | Date | Protocol | Findings | Report | 
